@@ -13,7 +13,7 @@ import {
   Right,
 } from "native-base";
 
-export default class Main extends Component {
+export default class Sidebar extends Component {
   render() {
     return (
       <Container>
